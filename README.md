@@ -1,0 +1,1 @@
+# et713bt-20241219-mdl-final-rails-ng
